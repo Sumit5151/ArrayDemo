@@ -7,4 +7,7 @@ Arithmatic arithmatic = new Arithmatic();
 //arithmatic.ReverseArray();
 //arithmatic.FindMaxNumberFromArray();
 //arithmatic.BubbleSort();
-arithmatic.SwappingTwoNumbersWithoutThirdVariable();
+//arithmatic.SwappingTwoNumbersWithoutThirdVariable();
+
+ArrayListDemo ArrayListDemo = new ArrayListDemo();
+ArrayListDemo.ArrayListTest();
