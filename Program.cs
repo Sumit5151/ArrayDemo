@@ -9,5 +9,8 @@ Arithmatic arithmatic = new Arithmatic();
 //arithmatic.BubbleSort();
 //arithmatic.SwappingTwoNumbersWithoutThirdVariable();
 
-ArrayListDemo ArrayListDemo = new ArrayListDemo();
-ArrayListDemo.ArrayListTest();
+ArrayListDemo arrayListDemo = new ArrayListDemo();
+//arrayListDemo.ArrayListTest();
+
+//arrayListDemo.HastTableTest();
+arrayListDemo.ListDemo();
