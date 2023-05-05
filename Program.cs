@@ -13,4 +13,6 @@ ArrayListDemo arrayListDemo = new ArrayListDemo();
 //arrayListDemo.ArrayListTest();
 
 //arrayListDemo.HastTableTest();
-arrayListDemo.ListDemo();
+//arrayListDemo.ListDemo();
+//arrayListDemo.ListDemo1();
+arrayListDemo.ListDemo2();
